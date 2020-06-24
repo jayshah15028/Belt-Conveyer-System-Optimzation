@@ -1,3 +1,8 @@
 # Belt-Conveyer-System-Optimzation
 
 This project presents a multidisciplinary and multi- objective optimization and post optimality analysis of a belt conveyor employed in material handling systems. It  provides a global optimization metric covering the two most widely used codes of belt manufacturing to conform with the distinct unit systems used worldwide. The cost function for the belt conveyor system is developed and passed through the optimizers like the reduced gradient method and the genetic algorithm for minimization. The second objective function in the form of the capacity of conveyance is introduced for maximization and both functions are treated with Pareto Front to locate optimal points in the objective space. The resultant points are then filtered to conform with the standards of the industrial belt conveyors to produce a set of distinct parameters. A set suitable for the application and the layout then can be selected to optimize the economy and production of the manufacturing plant. The post optimization analysis of the variables and the parameters determines the most sensitive parameters towards the design. The effect of the variance in the constraints on the objective space is given by the active constraints. The paper provides a specific template for the sand conveyance which can be translated to multiple applications and materials.
+
+
+CEMA and ISO formulations are used to incorporate universal application of the code. This project focuses on sand conveyance. But changing a few parameters like material density and conveying rate, these codes can be applied to any conveying application across the globe.
+
+I can be reached at jayshah15028@gmail.com. Please feel free to reach out if there are any questions. 
